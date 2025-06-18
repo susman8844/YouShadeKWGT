@@ -26,10 +26,7 @@ To use **YouShadeKWGT**, you’ll need the following:
 ---
 
 ## 📸 Preview
-
-*(You can add a screenshot or GIF here, e.g.:)*  
-![YouShadeKWGT Preview](./screenshot.jpg)
-
+Get previews in my Telegram Channel as of now, Will soon here be also
 ---
 
 ## 📢 Stay Updated!
