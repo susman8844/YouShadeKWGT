@@ -21,6 +21,7 @@ To use **YouShadeKWGT**, you’ll need the following:
 
 - 📲 [KWGT Kustom Widget Maker](https://play.google.com/store/apps/details?id=org.kustom.widget)
 - 🔓 [KWGT Pro Key](https://play.google.com/store/apps/details?id=org.kustom.widget.pro)
+- Or Built-in Pro Version
 - 📱 Android 12 or higher
 
 ---
