@@ -28,7 +28,7 @@ To use **YouShadeKWGT**, you’ll need the following:
 
 ## 📸 Preview
 
-- Get previews in my Telegram Channel as of now, Will soon here be also
+Get previews in my Telegram Channel as of now.
 ---
 
 ## 📢 Stay Updated!
