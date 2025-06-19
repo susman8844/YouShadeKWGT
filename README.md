@@ -9,7 +9,7 @@ YouShadeKWGT offers a wide variety of beautiful and useful widgets:
 
 - 🔋 **Battery Widget** – stylish and informative  
 - ⏰ **Pixel-style Clock** – inspired by Google's Pixel design  
-- 🌦️ **Weather Widget** – animated icons and real-time info  
+- 🌦️ **Weather Widget** – weather icons and real-time info  
 - 🎧 **Headphone Status** – shows when earbuds are connected  
 - 💜 And many more creative widget designs!
 
@@ -27,7 +27,8 @@ To use **YouShadeKWGT**, you’ll need the following:
 ---
 
 ## 📸 Preview
-Get previews in my Telegram Channel as of now, Will soon here be also
+
+- Get previews in my Telegram Channel as of now, Will soon here be also
 ---
 
 ## 📢 Stay Updated!
