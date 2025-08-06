@@ -34,6 +34,7 @@ Get previews in my Telegram Channel as of now.
 
 Join the official Telegram channel for updates, support, and sneak peeks of upcoming widgets:  
 👉 [@YouShadeKWGT](https://t.me/YouShadeKWGT)
+👉 [Discord] (https://discord.gg/yx8kA5JDGF)
 
 ---
 
