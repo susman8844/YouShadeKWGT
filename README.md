@@ -41,7 +41,7 @@ Join the official Telegram channel for updates, support, and sneak peeks of upco
 ## 💬 Feedback & Support
 
 Have questions or suggestions?  
-Feel free to reach out on Telegram or open an issue here on GitHub.
+Feel free to reach out on Telegram and Discord or open an issue here on GitHub.
 
 ---
 
